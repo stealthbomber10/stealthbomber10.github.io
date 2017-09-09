@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I started this blog in August 2017 right before entering my sophomore year of college. I wanted my own outlet for publishing things that I wanted to read but couldn't find anywhere else on the web. I also wanted a personal site to point friends, professors, and employers to.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm currently studying Computer Engineering at Washington University in St. Louis. You can find my GitHub and email at the bottom of the page, and if you want to connect with me on LinkedIn, you can go to my profile [here](https://www.linkedin.com/in/trent-andraka-5a084a133/).
