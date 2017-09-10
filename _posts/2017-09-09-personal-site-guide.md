@@ -86,16 +86,31 @@ You should eventually be presented with a page like so. These are the nameserver
 Now go back to your Namecheap dashboard and click on `Manage` right next to your domain. Right next to where it says `Nameservers` in the list under the `Domain` tab, select `Custom DNS` in the dropdown. Add the nameservers that Cloudflare presented you with to route your domain through cloudflare. For reference, here is the setup for this site:
 ![My custom stuff]({{ site.url }}/assets/custom.png)
 
+Now if you go back to Cloudflare and click `Recheck Nameservers` under Overview, it should eventually give you a green light with a Status that says `Active` (though it might take some time).
+
 Now we flip some magic switches that'll speed up our website and make it more secure. Go back to your Cloudflare account and navigate to the `Crypto` page under your domain. Set SSL to `Flexible`. Set both `Always use HTTPS` and `Automatic HTTPS Rewrites` to `On`. Next go to the `Speed` tab and check off `Javascript`, `CSS`, and `HTML` next to `Auto Minify`. Finally, go to `Page Rules`. You get three free page rules, so enable the following rules: (1) `Always Use HTTPS` for your http domain (like http://trentandraka.me, (2) `Forwarding URL` for the `www` version of your domain (like from https://www.trentandraka.me to https://trentandraka.me) with `Permanent Redirect` enabled, and (3) `Cache Level` for your domain (like https://trentandraka.me/) with `Cache Everything`. For reference, these are the page rules for this site:
 ![My rule1]({{ site.url }}/assets/rule1.png)
 ![My rule2]({{ site.url }}/assets/rule2.png)
 ![My rule3]({{ site.url }}/assets/rule3.png)
 ![My rules]({{ site.url }}/assets/rules.png)
 
-So what did all that do? Essentially, it enabled a bunch of settings that use the power of Cloudflare's servers to speed up the site and make it more secure. The secure part comes from using `HTTPS` instead of `HTTP`. It's always good for a site to have the former over the latter, since it's safer for users and gives the site a higher page-rank in search engines.
+So what did all that do? Essentially, it enabled a bunch of settings that use the power of Cloudflare's servers to speed up the site and make it more secure. The secure part comes from using `HTTPS` instead of `HTTP`. It's always good for a site to have the former over the latter, since it's safer for users and gives the site a higher page-rank in search engines. The changes won't take effect immediately, however; you might have to wait a bit.
 
-A disclaimer: the site still shouldn't be used for handling sensitive data, as the free Cloudflare services don't provide full end-to-end encryption, and Github [explicitly says](https://help.github.com/articles/what-is-github-pages/) "GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit numbers." For our purposes, however, this level of security is perfectly fine, so get over it Snowden. Most students just keep the custom domain completely unsecured with plain `HTTP`.
+Disclaimer: the site still shouldn't be used for handling sensitive data, as the free Cloudflare services don't provide full end-to-end encryption, and Github [explicitly says](https://help.github.com/articles/what-is-github-pages/) "GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit numbers." For our purposes, however, this level of security is perfectly fine, so get over it Snowden. Most students just keep the custom domain completely unsecured with plain `HTTP`.
 
 ### Final Steps
 
-The moment of triumph (with a little bit of configuration).
+The moment of triumph (with a little bit of configuration). Go back to the repository for your site on GitHub and click `Settings` at the top. Scroll down until you see `GitHub Pages`. Enter your domain in the Custom Domain box and hit Save. Refresh the page and you should see something like this:
+![My cname]({{ site.url }}/assets/cname.png)
+
+Your site is finally viewable at https://yourname.me.
+
+Now edit the template so that it looks like a human operates the site. Go back to the main page of your repository and click on `_config.yml`. This is all the variables that show up on the main page of the site. Edit these accordingly by clicking on the pencil icon in the top-right (for reference, mine is linked [here](https://github.com/trentandraka/trentandraka.github.io/blob/master/_config.yml)).
+
+Edit the `about.md` file in your repository too with a dandy description of who you are (or whatever it is you're representing).
+
+And that's it. You now have a super fast personal website that even provides security for it's users. How much did it cost? Nothing. How much programming did we do? Also nothing.
+
+If you want to try your hand at customizing the site even more, check out the [Jekyll Docs](https://jekyllrb.com/docs/home/).
+
+If anything went wrong with your site during this tutorial, try [installing gentoo](https://www.youtube.com/watch?v=VjGSMUep6_4).
