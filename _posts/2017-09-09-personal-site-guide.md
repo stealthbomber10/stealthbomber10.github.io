@@ -56,7 +56,7 @@ Now you just need to sync this folder with your repository on GitHub. Run the fo
 
 ```shell
 $ git remote add origin git@github.com:username/username.github.io.git
-$ git push -u origin master
+$ git push origin master
 ```
 
 You'll have to enter your GitHub username and password (yes, the characters don't show up when you type, that confused me too when was first learning the command line). Now, if you go back to your GitHub account, you should see all the files for your site in your online repository for the site. If you go the URL of your site, which should be <username>.github.io you'll see what you saw earlier when you were running the site ony our computer. GitHub hosts your site for free on its servers.
@@ -88,7 +88,7 @@ Now go back to your Namecheap dashboard and click on `Manage` right next to your
 
 Now if you go back to Cloudflare and click `Recheck Nameservers` under Overview, it should eventually give you a green light with a Status that says `Active` (though it might take some time).
 
-Now we flip some magic switches that'll speed up our website and make it more secure. Go back to your Cloudflare account and navigate to the `Crypto` page under your domain. Set SSL to `Flexible`. Set both `Always use HTTPS` and `Automatic HTTPS Rewrites` to `On`. Next go to the `Speed` tab and check off `Javascript`, `CSS`, and `HTML` next to `Auto Minify`. Finally, go to `Page Rules`. You get three free page rules, so enable the following rules: (1) `Always Use HTTPS` for your http domain (like http://trentandraka.me, (2) `Forwarding URL` for the `www` version of your domain (like from https://www.trentandraka.me to https://trentandraka.me) with `Permanent Redirect` enabled, and (3) `Cache Level` for your domain (like https://trentandraka.me/) with `Cache Everything`. For reference, these are the page rules for this site:
+Now we flip some magic switches that'll speed up our website and make it more secure. Go back to your Cloudflare account and navigate to the `Crypto` page under your domain. Set SSL to `Full`. Set both `Always use HTTPS` and `Automatic HTTPS Rewrites` to `On`. Next go to the `Speed` tab and check off `Javascript`, `CSS`, and `HTML` next to `Auto Minify`. Finally, go to `Page Rules`. You get three free page rules, so enable the following rules: (1) `Always Use HTTPS` for your http domain (like http://trentandraka.me, (2) `Forwarding URL` for the `www` version of your domain (like from https://www.trentandraka.me to https://trentandraka.me) with `Permanent Redirect` enabled, and (3) `Cache Level` for your domain (like https://trentandraka.me/) with `Cache Everything`. For reference, these are the page rules for this site:
 ![My rule1]({{ site.url }}/assets/rule1.png)
 ![My rule2]({{ site.url }}/assets/rule2.png)
 ![My rule3]({{ site.url }}/assets/rule3.png)
