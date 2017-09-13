@@ -4,7 +4,7 @@ title: "Trent's Dead-Simple Guide to Setting up a Personal Website as a Cheap Co
 date: 2017-09-09 18:00:00 -0500
 categories: guide
 ---
-So you've decided you want to have your own personal website. You've seen the cool undergraduate students at your university showing off their portfolios and blogs and whatever with their fancy HTML pages, and you want whatever it is they're having.
+So you've decided you want to have your own personal website. You've seen all the cool kids at your university showing off their portfolios and blogs and whatever with their fancy HTML pages, and you want whatever it is they're having.
 
 Lucky for you, this is the golden age of web development (for better or worse), and you need literally zero knowledge of programming to set up a personal site. So you business school kids can follow along to!
 
@@ -65,7 +65,7 @@ But the URL can only be `something.github.io`. What if you want one of those fan
 
 ### Registering a Domain
 
-It's a good thing [Namecheap](https://www.namecheap.com/) has a cost-effective solution. Go and [register](https://nc.me/) the free domain you get just for being a university student. You'll also have to make an account. The free option is the one with the `.me` subdomain (that's what the domain ends with, for you business students). Even if you don't like the `.me`, it's worth the price. You get a year of free domain hosting, and even after the year is up the price to renew is small. Plus, with your own website, you'll be set with cash from that big internship you'll no doubt score.
+It's a good thing [Namecheap](https://www.namecheap.com/) has a cost-effective (see: free) solution. Go and [register](https://nc.me/) the free domain you get just for being a university student. You'll also have to make an account. The free option is the one with the `.me` subdomain (that's what the domain ends with, for you business students). Even if you don't like the `.me`, it's worth the price. You get a year of free domain hosting, and even after the year is up the price to renew is small. Plus, with your own website, you'll be set with cash from that big internship you'll no doubt score.
 
 After Namecheap walks you through registering the domain, you'll eventually arrive at your Dashboard. For reference, here's mine.
 ![My dashboard]({{ site.url }}/assets/namecheap.png)
@@ -88,15 +88,15 @@ Now go back to your Namecheap dashboard and click on `Manage` right next to your
 
 Now if you go back to Cloudflare and click `Recheck Nameservers` under Overview, it should eventually give you a green light with a Status that says `Active` (though it might take some time).
 
-Now we flip some magic switches that'll speed up our website and make it more secure. Go back to your Cloudflare account and navigate to the `Crypto` page under your domain. Set SSL to `Full`. Set both `Always use HTTPS` and `Automatic HTTPS Rewrites` to `On`. Next go to the `Speed` tab and check off `Javascript`, `CSS`, and `HTML` next to `Auto Minify`. Finally, go to `Page Rules`. You get three free page rules, so enable the following rules: (1) `Always Use HTTPS` for your http domain (like http://trentandraka.me, (2) `Forwarding URL` for the `www` version of your domain (like from https://www.trentandraka.me to https://trentandraka.me) with `Permanent Redirect` enabled, and (3) `Cache Level` for your domain (like https://trentandraka.me/) with `Cache Everything`. For reference, these are the page rules for this site:
+Now to flip some magic switches that'll speed up our website and make it more secure. Go back to your Cloudflare account and navigate to the `Crypto` page under your domain. Set SSL to `Full`. Set both `Always use HTTPS` and `Automatic HTTPS Rewrites` to `On`. Next go to the `Speed` tab and check off `Javascript`, `CSS`, and `HTML` next to `Auto Minify`. Finally, go to `Page Rules`. You get three free page rules, so enable the following rules: (1) `Always Use HTTPS` for your http domain (like http://trentandraka.me, (2) `Forwarding URL` for the `www` version of your domain (like from https://www.trentandraka.me to https://trentandraka.me) with `Permanent Redirect` enabled, and (3) `Cache Level` for your domain (like https://trentandraka.me/) with `Cache Everything`. For reference, these are the page rules for this site:
 ![My rule1]({{ site.url }}/assets/rule1.png)
 ![My rule2]({{ site.url }}/assets/rule2.png)
 ![My rule3]({{ site.url }}/assets/rule3.png)
 ![My rules]({{ site.url }}/assets/rules.png)
 
-So what did all that do? Essentially, it enabled a bunch of settings that use the power of Cloudflare's servers to speed up the site and make it more secure. The secure part comes from using `HTTPS` instead of `HTTP`. It's always good for a site to have the former over the latter, since it's safer for users and gives the site a higher page-rank in search engines. The changes won't take effect immediately, however; you might have to wait a bit.
+What we just did, essentially, is enable a bunch of settings that use the power of Cloudflare's servers to speed up the site and make it more secure. The secure part comes from using `HTTPS` instead of `HTTP`. It's always good for a site to have the former over the latter, since it's safer for users and gives the site a higher page-rank in search engines. The changes won't take effect immediately, however; you might have to wait a bit.
 
-Disclaimer: the site still shouldn't be used for handling sensitive data, as the free Cloudflare services don't provide full end-to-end encryption, and Github [explicitly says](https://help.github.com/articles/what-is-github-pages/) "GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit numbers." For our purposes, however, this level of security is perfectly fine, so get over it Snowden. Most students just keep the custom domain completely unsecured with plain `HTTP`.
+**Disclaimer**: the site still shouldn't be used for handling any sort of sensitive data; Cloudflare doesn't include end-to-end encryption with its free services, and Github [explicitly says](https://help.github.com/articles/what-is-github-pages/) "GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit numbers." For our purposes, however, this level of security is perfectly fine, so get over it Snowden. Most students just keep the custom domain completely unsecured with plain `HTTP`. You'll be a diamond in the rough.
 
 ### Final Steps
 
@@ -113,4 +113,4 @@ And that's it. You now have a super fast personal website that even provides sec
 
 If you want to try your hand at customizing the site even more, check out the [Jekyll Docs](https://jekyllrb.com/docs/home/).
 
-If anything went wrong with your site during this tutorial, try [installing gentoo](https://www.youtube.com/watch?v=VjGSMUep6_4).
+If anything went wrong with your site during this tutorial, try going [here](https://www.youtube.com/watch?v=VjGSMUep6_4) for more information.
