@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trent's Advice Mega Post on Tech Internships"
-date: 2017-11-20 12:00:00 -0500
+date: 2017-11-22 20:00:00 -0500
 categories: advice
 ---
 
@@ -33,10 +33,12 @@ Contrary to popular belief, these do not relate to each other. What gets you the
 
 You don't want a crappy resume to be the reason you're not getting interviews. This is the only thing recruiters are looking at to choose who to interview, so you need to make it as dynamite as you can. Mine from freshman year absolutely sucked, so I scrapped it a year later and made a completely new resume.
 
-Luckily, there are templates that other people have made for you. Honestly, just use the (Deedy Resume)[https://github.com/deedy/Deedy-Resume]. It's clean, it'll show you're in with the HN-hipster CS crowd, and it might even be your first introduction to LaTeX. It's better than anything you'll end up making, I can tell you that. You'll thank me later.
+Luckily, there are templates that other people have made for you. Honestly, just use the (Deedy Resume)[https://github.com/deedy/Deedy-Resume]. It's clean, it'll show you're in with the HN-hipster CS crowd, and it might even be your first introduction to LaTeX. I guarantee that it's better than anything you'll end up making from scratch. You can thank me later.
 
-(This template)[https://www.latextemplates.com/template/friggeri-resume-cv] is also pretty good.
+(This template)[https://www.latextemplates.com/template/friggeri-resume-cv] is also pretty good, and so are (these)[https://www.rpi.edu/dept/arc/training/latex/resumes/] if you want something more bare-bones.
 
 ##Copping an Interview
 
 ##Killing the Interview
+
+Once you've secured the interview, your performance as judged by the interviewer is the only thing that determines whether you get the job. Your resume, grades, and projects do not matter at that poin at all at that point.
