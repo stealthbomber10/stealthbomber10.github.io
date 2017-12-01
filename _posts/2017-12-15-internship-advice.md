@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trent's Advice Mega Post on Tech Internships"
-date: 2017-11-30 20:00:00 -0600
+date: 2017-12-15 20:00:00 -0600
 categories: advice
 ---
 
