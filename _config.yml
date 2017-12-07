@@ -38,3 +38,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# hide posts dated in the future
+future: false
