@@ -4,6 +4,9 @@ title: "Trent's Dead-Simple Guide to Setting up a Personal Website as a Cheap Co
 date: 2017-09-09 18:00:00 -0500
 categories: guide
 ---
+
+**EDIT:** GitHub [now supports](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/) HTTPS when hosting your own custom domain, making much of this post out-of-date. You can still follow the steps given here, but anything past the the "Setting up GitHub Hosting" section is probably unnecessary.
+
 So you've decided you want to have your own personal website. You've seen all the cool kids at your university showing off their portfolios and blogs and whatever with their fancy HTML pages, and you want whatever it is they're having.
 
 Lucky for you, this is the golden age of web development (for better or worse), and you need literally zero knowledge of programming to set up a personal site. So you business school kids can follow along to!
