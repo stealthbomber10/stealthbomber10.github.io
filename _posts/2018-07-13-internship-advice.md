@@ -42,7 +42,7 @@ List hard numbers and statistics. They sound nice to recruiters and make your ac
 
 **Don't apply online**. It won't work. I think I only got one response in the last *year* from the "fire and forget" mass application method, out of the dozens of companies I applied to, and it was months after I had already accepted an offer. I'm not sure why we were even talking at that point. Applying online and then twiddling your thumbs for a while is the strategy you use if you've exhausted all your other options with a company (or if you simply don't want to put in the extra effort).
 
-Like in product sales, the key to selling yourself isn't spamming your message, but rather lead generation. The better the lead, the better the sale (of you).
+You're trying to sell yourself. And the key to sales isn't volume, but rather lead generation. The better the lead, the better the sale (of you).
 
 I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) through cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
 
