@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Trent's Advice Mega Post on Tech Internships"
+title: "Advice Mega Post on Tech Internships"
 date: 2018-07-13 20:00:00 -0600
 categories: advice
 ---
 
-My internship this summer has been pretty nice (props to Amazon), so I thought I'd write the post that I wish had been out there for me to read when I was trying to get a job in the tech industry. There's a lot I learned in the past year or so, #1 being that **this stuff is not intuitive at all**. If the statement "internship requires past internship experience" is as much of a surprise to you as it was to me, then, boy, do you have a lot to learn.
-
-Some of this is what I've learned from reading other similar posts about internship help. I'll be taking what I actually found useful from those sources and aggregating them here, plus compounding it with what I saw firsthand. Essentially, this is an info dump of anything I think is useful to know.
+Interning this summer has been pretty nice (props to Amazon), so I thought I'd write the post that I wish had been out there for me to read when I was trying to get a job in the tech industry. There's a lot I learned in the past year or so, #1 being that **this stuff is not intuitive at all**. For one thing, we live in a world where internships require past internship experience. You have a lot to learn.
 
 Gettig an offer is all about finding opportunities and taking advantage of them. Like anything else, it's a skill that needs to be learned.
+
+Some of this is what I've learned from reading other similar posts about internship help. I'll be taking what I actually found useful from those sources and aggregating them here, plus compounding it with what I saw firsthand. Essentially, this is an info dump of anything I think is useful to know.
 
 This advice is aimed at US undergrads in their sophomore or junior year of university who don't go to a target engineering school, or even one that's well-ranked (like mine).  Sorry internationals, I don't share your struggles so I can't really provide any help. You could always just to go to Hong Kong like I did last summer (highly recommend). If you go to MIT or Stanford, you're pretty much set, and you've probably been groomed since you were young to know this stuff already.
 
@@ -17,7 +17,7 @@ Receiving an offer boils down to two major things:
 1. Getting an Interview
 2. Killing the Interview
 
-These events are mutually exclusive and non-cumulative. What gets you the interview does not get you the job. It isn't even a factor in whether you get the job. Once you have the interview, it's about your performance *in* that interview, and nothing else.
+These events are mutually exclusive and non-cumulative. Once you've gotten the interview, all that matters is how you do *in* said interview.
 
 ## Hacking your Resume
 
@@ -36,9 +36,13 @@ Include the higher of your cumulative and major GPA. Leave it off completely if 
 
 Don't BS the skills you list on your resume. Making yourself look good on paper is fine and dandy, but if you get called out on your stuff in the interview it can look very bad. Don't lie when you're hyping yourself up.
 
-When talking about your experience, projects, awards, or whatever, list hard numbers and statistics as much as you can. 
+List hard numbers and statistics. They sound nice to recruiters and make your accomplishments more well-defined. I guarantee that if there's one thing wrong with your resume, it's that you're being too qualitative where you should be being quantitative.
 
 ## Finding an "in"
+
+**Don't apply online**. It won't work. I think I only got one response from the "fire and forget" mass application method, out of the dozens of companies I applied to, and it was months after I had already accepted an offer. I'm not sure why we were even talking at that point. Applying online and then twiddling your thumbs for a while is the strategy you use if you've exhausted your other options with a company (or if you simply don't want to put in more effort).
+
+Here's an example. The first interview I got was in mid-September, through my school's career fair. My first interview that semester subsequently also led to my first summer internship offer.
 
 I took some inspiration from [this genius](https://medium.freecodecamp.org/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48) and hit up nearly every recruiter I had contacted earlier and even some new ones.
 
@@ -55,6 +59,8 @@ Also, I hope you have the attention span to be reading this post all the way thr
 The schedule [this guy](https://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/) followed isn't too shabby. Only thing I would change is stick to CTCI and the easy to medium questions on Leetcode (don't bother with the hard ones). The process outlined [here](https://reginaldlong.com/how-do-i-practice-an-interview-problem/) (by the same guy no less) is a fantastic way to practice these questions. Making programming questions a morning or evening a routine isn't a bad way to practice:
 
 ![Wojak jammies]({{ site.url }}/assets/pajamas.png)
+
+That's all the advice I can think of. If you want more info on anything I talked about, or even something I didn't, shoot me an email. I look at everything that gets sent my way.
 
 ## Appendix: freshman edition
 
