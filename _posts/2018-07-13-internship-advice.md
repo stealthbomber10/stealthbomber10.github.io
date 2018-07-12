@@ -23,7 +23,7 @@ These events are mutually exclusive and non-cumulative. Once you've gotten the i
 
 You don't want a crappy resume to be the reason you're not getting interviews. This is the only thing recruiters are looking at to choose who to interview, so you need to make it as dynamite as you can. Mine from freshman year absolutely sucked, so I scrapped it a year later and made a new one.
 
-Luckily, there are templates that other people have made for you. In my opinion, you should just go with the [Deedy Resume](https://github.com/deedy/Deedy-Resume). It's clean, it'll show you're in with the HN-hipster CS crowd, and it might even be your first introduction to LaTeX. I guarantee that it's better than anything you'll end up making from scratch. You can thank me later.
+Luckily, there are templates that other people have made for you. In my opinion, you should just go with the [Deedy Resume](https://github.com/deedy/Deedy-Resume). It's clean, it'll show you're in with the Hacker News hipster CS crowd, and it might even be your first introduction to LaTeX. I guarantee that it's better than anything you'll end up making from scratch. You can thank me later.
 
 [These](https://www.rpi.edu/dept/arc/training/latex/resumes/) templates 
 are nice if you want something more bare-bones, and [this one](https://www.latextemplates.com/template/friggeri-resume-cv) is also pretty good. Still can't go wrong with Deedy.
@@ -40,7 +40,11 @@ List hard numbers and statistics. They sound nice to recruiters and make your ac
 
 ## Finding an "in"
 
-**Don't apply online**. It won't work. I think I only got one response from the "fire and forget" mass application method, out of the dozens of companies I applied to, and it was months after I had already accepted an offer. I'm not sure why we were even talking at that point. Applying online and then twiddling your thumbs for a while is the strategy you use if you've exhausted your other options with a company (or if you simply don't want to put in more effort).
+**Don't apply online**. It won't work. I think I only got one response in the last *year* from the "fire and forget" mass application method, out of the dozens of companies I applied to, and it was months after I had already accepted an offer. I'm not sure why we were even talking at that point. Applying online and then twiddling your thumbs for a while is the strategy you use if you've exhausted all your other options with a company (or if you simply don't want to put in the extra effort).
+
+Like in product sales, the key to selling yourself isn't spamming your message, but rather lead generation. The better the lead, the better the sale (of you).
+
+I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) through cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
 
 Here's an example. The first interview I got was in mid-September, through my school's career fair. My first interview that semester subsequently also led to my first summer internship offer.
 
