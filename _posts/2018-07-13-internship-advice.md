@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advice Mega Post on Tech Internships"
-date: 2018-07-13 20:00:00 -0600
+date: 2018-07-20 20:00:00 -0600
 categories: advice
 ---
 
@@ -64,7 +64,7 @@ The schedule [this guy](https://reginaldlong.com/how-i-went-from-failing-every-i
 
 ![Wojak jammies]({{ site.url }}/assets/pajamas.png)
 
-That's all the advice I can think of. If you want more info on anything I talked about, or even something I didn't, shoot me an email. I look at everything that gets sent my way.
+That's all the advice I can think of. If you want more info on anything I talked about, or even something I didn't, shoot me an email. I look at everything that gets sent my way, and I like answering questions about this.
 
 ## Appendix: freshman edition
 
