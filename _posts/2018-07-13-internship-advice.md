@@ -44,6 +44,8 @@ List hard numbers and statistics. They sound nice to recruiters and make your ac
 
 You're trying to sell yourself. And the key to sales isn't volume, but rather lead generation. The better the lead, the better the sale (of you).
 
+The best "lead" you can get is a personal referral. These land you the interview. Please pass go and collect 200 dollars.
+
 I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) through cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
 
 Here's an example. The first interview I got was in mid-September, through my school's career fair. My first interview that semester subsequently also led to my first summer internship offer.
