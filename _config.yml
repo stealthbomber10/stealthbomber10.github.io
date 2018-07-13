@@ -23,7 +23,7 @@ github_username:  trentandraka
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
