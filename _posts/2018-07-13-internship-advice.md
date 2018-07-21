@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advice Mega Post on Tech Internships"
-date: 2018-07-20 20:00:00 -0600
+date: 2018-07-21 20:00:00 -0600
 categories: advice
 ---
 
@@ -46,13 +46,17 @@ You're trying to sell yourself. And the key to sales isn't volume, but rather le
 
 The best "lead" you can get is a personal referral. These land you the interview. Please pass go and collect 200 dollars.
 
-I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) through cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
+About 25-30 characters is good for the subject line. Make it something that stands out without looking like a message from a nigerian prince.
+
+I think I worked with [this](https://www.quora.com/How-should-I-cold-email-a-recruiter-for-a-tech-internship) template when I was writing my emails to recruiters. I played with and fleshed it out a lot.
+
+I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) by cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
 
 Here's an example. The first interview I got was in mid-September, through my school's career fair. My first interview that semester subsequently also led to my first summer internship offer.
 
 I took some inspiration from [this genius](https://medium.freecodecamp.org/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48) and hit up nearly every recruiter I had contacted earlier and even some new ones.
 
-Dropbox sent me a HackerRank challenge only because I doxxed a recruiter and told her I had another offer on the table. I didn't advance past the challenge, but at that point is was all about my ability to advance. That's all about you can really ask for with this stuff.
+Dropbox sent me a HackerRank challenge only because I doxxed a recruiter and told her I had another offer on the table. I didn't advance, but at that point is was entirely on me and my programming ability. That's all you can really ask for with this stuff.
 
 You can bet I felt like a big baller when I told them to piss off and smashed that delete button.
 
