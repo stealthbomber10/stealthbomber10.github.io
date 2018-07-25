@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advice Mega Post on Tech Internships"
-date: 2018-07-21 20:00:00 -0600
+date: 2018-07-25 20:00:00 -0600
 categories: advice
 ---
 
@@ -52,19 +52,19 @@ I think I worked with [this](https://www.quora.com/How-should-I-cold-email-a-rec
 
 I literally got a referral at one of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp) by cold emailing a current employee in one of the [HN jobs](http://hnhiring.me/) threads. 
 
-Here's an example. The first interview I got was in mid-September, through my school's career fair. My first interview that semester subsequently also led to my first summer internship offer.
+Here's an example. The first interview I got was with Garmin in mid-September, through my school's career fair. I gave them my resume at the career fair, talked to the recruiter, and then got a text message later to meet them on campus the next morning to interview. I was legitimately interested in working there, and I passed the interview and got my first internship offer of the year.
 
 I took some inspiration from [this genius](https://medium.freecodecamp.org/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48) and hit up nearly every recruiter I had contacted earlier and even some new ones.
 
 Dropbox sent me a HackerRank challenge only because I doxxed a recruiter and told her I had another offer on the table. I didn't advance, but at that point is was entirely on me and my programming ability. That's all you can really ask for with this stuff.
 
-You can bet I felt like a big baller when I told them to piss off and smashed that delete button.
+You can bet I felt pretty big when I didn't even open it and pressed "Delete."
 
 ## Acing the Interview
 
-Once you've secured the interview, your performance on the programming portion is literally the only thing that determines whether you get the job or not. Everything else is irrelevant. I remember that [this piece](https://www.alexkras.com/whiteboard-interviews-suck-get-good-at-them-anyway/) was a big eye-opener for me.
+Once you've secured the interview, your performance on the programming portion is literally the only thing that determines whether you get the job or not. Everything else is irrelevant. I remember [this piece](https://www.alexkras.com/whiteboard-interviews-suck-get-good-at-them-anyway/) was a big eye-opener for me.
 
-Also, I hope you have the attention span to be reading this post all the way through (and not as you advance throughout the internship process), cause prepping for this stage should really start way before you actually reach it. Like Lincoln said himself, "Give me six hours to chop down a tree, and I will spend the first four hours sharpening the axe."
+Also, I hope you have the attention span to be reading this post all the way through (and not as you advance throughout the internship process), cause prepping for this stage comes before anything else. Like Lincoln said himself, "Give me six hours to chop down a tree, and I will spend the first four hours sharpening the axe."
 
 The schedule [this guy](https://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/) followed isn't too shabby. Only thing I would change is stick to CTCI and the easy to medium questions on Leetcode (don't bother with the hard ones). The process outlined [here](https://reginaldlong.com/how-do-i-practice-an-interview-problem/) (by the same guy no less) is a fantastic way to practice these questions. Making programming questions a morning or evening a routine isn't a bad way to practice:
 
@@ -77,3 +77,5 @@ That's all the advice I can think of. If you want more info on anything I talked
 You'll notice that I didn't mention freshmen at all. Truth is, it's difficult for most freshman to get an internship at these big tech companies unless you're at a top school or are a rockstar programmer (in which case I don't know why you kept reading after the last fourth or fifth paragraph). Your best bet is to apply to a ~~leftist diversity program~~ specialized freshman engineering internship, e.g. something like the [Microsoft Explore Program](https://careers.microsoft.com/students/explore) or [Facebook's Engineering University](https://www.facebook.com/careers/university/fbueng) thing. Either that, or try to leverage any sort of connections you might have, whether it be from school, friends, family, or something else.
 
 Your highest chance of success, however, will most likely come from looking at companies local to where you live. For example, I straight up just emailed my resume to the CS departments at universities near my home, and a couple professors reached out, offering to have me conduct research with them over the summer. I didn't end up taking either of them up on it, but it showed me that you just have to have an idea of where to look for opportunities.
+
+Reaching out to a startup too - local or university since they usually can't afford to pay for housing - is a good bet too.
