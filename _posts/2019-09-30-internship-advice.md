@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advice Mega Post on Tech Internships"
-date: 2018-07-25 20:00:00 -0600
+date: 2019-09-30 20:00:00 -0600
 categories: advice
 ---
 
